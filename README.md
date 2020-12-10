@@ -26,19 +26,19 @@ Matplotlib: 3.3.2
 FBProphet
 
 The results of the spatial interpolation are as follows:
- ![Loss](spatial_interpolation_loss.png)
- ![Predicted Values of y](spatial_interpolation_y.png)
+ ![Loss](results/spatial_interpolation_loss.png)
+ 
+ ![Predicted values of y](results/spatial_interpolation_pred.png)
  
 Metrics from the sklearn library were used to evaluate the model. When tested on the test data, the model gives an R2 score of 0.69.
 The results of the time series model using FBProphet are as follows:
 Location 1:
- 
+![Prediction](results/location1_1.png)
+![Trends](results/location1_2.png)
  
 Location 2:
- 
- 
-
-
+![Prediction](results/location2_1.png)
+![Trends](results/location2_2.png)
 
 These results give an insight into the pollution levels of the city. From the plot it can be observed that, 
 •	Daily: Pollution level is high during morning and late evenings.
