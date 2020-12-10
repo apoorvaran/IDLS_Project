@@ -26,7 +26,8 @@ Matplotlib: 3.3.2
 FBProphet
 
 The results of the spatial interpolation are as follows:
- 
+ ![Loss](spatial_interpolation_loss.png)
+ ![Predicted Values of y](spatial_interpolation_y.png)
  
 Metrics from the sklearn library were used to evaluate the model. When tested on the test data, the model gives an R2 score of 0.69.
 The results of the time series model using FBProphet are as follows:
