@@ -11,7 +11,7 @@ The location name columns have the pm2.5 levels recorded at that sensor at the s
  
 Implementation details:
 
-Python 2.7
+Python 3.7
 
 Frameworks:
 
