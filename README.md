@@ -34,7 +34,9 @@ The results of the spatial interpolation are as follows:
  ![Predicted values of y](results/spatial_interpolation_pred.png)
  
 Metrics from the sklearn library were used to evaluate the model. When tested on the test data, the model gives an R2 score of 0.69.
+
 The results of the time series model using FBProphet are as follows:
+
 Location 1:
 ![Prediction](results/location1_1.png)
 ![Trends](results/location1_2.png)
