@@ -2,11 +2,11 @@
 
 ## Description
 
-PM2.5 is an air pollutant responsible for multiple respiratory issues. The pollution levels in the city have increased over time. I have used the Pollution Level Data from Pollution Control Board (PCB) sensors and Cleair network reference grade sensors from Enviome Research in Kolkata for one year.
+PM2.5 is an air pollutant responsible for multiple respiratory issues. The pollution levels in the city have increased over time. Pollution Levels Data from Pollution Control Board (PCB) sensors and Cleair network reference grade sensors from Enviome Research in Kolkata for one year have been used in this project with traffic vehicle counts at nearest locatins.
 
 The data sources initially considered for building the neural network included latitude, longitude, PM2.5 level, temperature, humidity, rainfall and volumes of traffic at that location. Due to loss and damage of some sensors, some data points are missing. The weather dataset has missing data points and when added to the network, gave a very poor performance. Thus, the model has been trained on latitude, longitude, PM2.5 level, and volumes of traffic at that location.
 
-I created a neural network for spatial interpolation using the above-mentioned data points. Since there are two kinds of devices, I used the Pollution Control Board sensors as an input to the model. The interpolation was done on the Cleair device locations. After multiple experiments, the hyperparameters were fixed with Adam optimizer and a learning rate of 0.01 for regularization. Three activation layers with 8, 8 and 4 activation units gave the best performance. The metrics stored during training are root mean square error.
+A neural network for spatial interpolation was created using the above-mentioned data points. Since there are two kinds of devices, Pollution Control Board sensors were used as an input to the model. The interpolation was done on the Cleair device locations. After multiple experiments, the hyperparameters were fixed with Adam optimizer and a learning rate of 0.01 for regularization. Three activation layers with 8, 8 and 4 activation units gave the best performance. The metrics stored during training are root mean square error.
 
 ---
 ## Implementation details:
