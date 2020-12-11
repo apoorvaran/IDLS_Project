@@ -1,4 +1,4 @@
-# Prediction of PM2.5(Air Pollutant) Level
+# Prediction of PM2.5(Air Pollutant) Level using Neural Networks
 
 ## Description
 
