@@ -27,18 +27,18 @@ A neural network for spatial interpolation was created using the above-mentioned
 
 | Column name                                  | Description                                                                                                     |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Datetime                                     | Timestamp at which pm2.5 value is recorded                                                                      |
-| Ballygunge, Kolkata - WBPCB                  | pm2.5 levels recorded Ballygunge                                                                                |
-| Belur Math, Howrah – WBPCB                   | pm2.5 levels recorded for Belur Math                                                                            |
-| Bidhannagar, Kolkata – WBPCB                 | pm2.5 levels recorded for Bidhannagar                                                                           |
-| Fort William, Kolkata – WBPCB                | pm2.5 levels recorded for Fort William                                                                          |
-| Ghusuri, Howrah – WBPCB                      | pm2.5 levels recorded for Ghusuri                                                                               |
-| Jadavpur, Kolkata – WBPCB                    | pm2.5 levels recorded for Jadavpur                                                                              |
-| Padmapukur, Howrah – WBPCB                   | pm2.5 levels recorded for Padmapukur                                                                            |
-| Rabindra Bharati University, Kolkata – WBPCB | pm2.5 levels recorded for Rabindra Bharati University                                                           |
-| Rabindra Sarobar, Kolkata – WBPCB            | pm2.5 levels recorded for Rabindra Sarobar                                                                      |
-| Victoria, Kolkata – WBPCB                    | pm2.5 levels recorded for Victoria                                                                              |
-| US Diplomatic Post: Kolkata                  | pm2.5 levels recorded for US Diplomatic Post                                                                    |
+| Datetime                                     | Timestamp at which PM2.5 value is recorded                                                                      |
+| Ballygunge, Kolkata - WBPCB                  | PM2.5 levels recorded Ballygunge                                                                                |
+| Belur Math, Howrah – WBPCB                   | PM2.5 levels recorded for Belur Math                                                                            |
+| Bidhannagar, Kolkata – WBPCB                 | PM2.5 levels recorded for Bidhannagar                                                                           |
+| Fort William, Kolkata – WBPCB                | PM2.5 levels recorded for Fort William                                                                          |
+| Ghusuri, Howrah – WBPCB                      | PM2.5 levels recorded for Ghusuri                                                                               |
+| Jadavpur, Kolkata – WBPCB                    | PM2.5 levels recorded for Jadavpur                                                                              |
+| Padmapukur, Howrah – WBPCB                   | PM2.5 levels recorded for Padmapukur                                                                            |
+| Rabindra Bharati University, Kolkata – WBPCB | PM2.5 levels recorded for Rabindra Bharati University                                                           |
+| Rabindra Sarobar, Kolkata – WBPCB            | PM2.5 levels recorded for Rabindra Sarobar                                                                      |
+| Victoria, Kolkata – WBPCB                    | PM2.5 levels recorded for Victoria                                                                              |
+| US Diplomatic Post: Kolkata                  | PM2.5 levels recorded for US Diplomatic Post                                                                    |
 | latitude                                     | latitude of the Cleair sensors that are being used to train the model                                           |
 | longitude                                    | longitude of the Cleair sensors that are being used to train the model                                          |
 | pm2.5_val                                    | PM2.5 value recorded at the Cleair sensor                                                                       |
