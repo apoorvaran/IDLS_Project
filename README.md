@@ -12,15 +12,17 @@ Python 3.7
 
 Frameworks:
 
-Tensorflow: 2.3.1
+Tensorflow-Keras: 2.3.1
 
 Pandas: 1.1.2
 
-Sklearn
+Sklearn: 0.23.2
+
+Fbprophet: 0.7.1
+
+Numpy: 1.18.5
 
 Matplotlib: 3.3.2
-
-FBProphet
 
 ###### Datapoints of the neural network: 
 'Datetime', ‘Ballygunge, Kolkata - WBPCB‘,’Belur Math, Howrah – WBPCB’,’Bidhannagar, Kolkata – WBPCB’,’Fort William, Kolkata – WBPCB’,’Ghusuri, Howrah – WBPCB’,’Jadavpur, Kolkata – WBPCB’,’Padmapukur, Howrah – WBPCB’,’Rabindra Bharati University, Kolkata – WBPCB’,’Rabindra Sarobar, Kolkata – WBPCB’,’Victoria, Kolkata – WBPCB’,’US Diplomatic Post: Kolkata’,’latitude’,’longitude,’pm2.5_val’,’traffic_count’.
