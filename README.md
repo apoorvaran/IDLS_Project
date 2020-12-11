@@ -43,10 +43,14 @@ Location 2:
 ![Prediction](results/location2_1.png)
 ![Trends](results/location2_2.png)
 
-These results give an insight into the pollution levels of the city. From the plot it can be observed that, 
+These results give an insight into the pollution levels of the city. From the plot it can be observed that,
+
 •	Daily: Pollution level is high during morning and late evenings.
+
 •	Weekly: Pollution is highest during the middle of the week.
+
 •	Yearly: Pollution levels have reduced significantly since Covid outbreak(March 2020).
+
 •	Pollution levels spiked in January.
 
 These results give an insight into the pollution levels of the city. The findings from this project can be used by legislators and policy-makers to take necessary actions to curb the pollution levels.
